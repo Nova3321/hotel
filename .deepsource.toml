@@ -2,7 +2,7 @@ version = 1
 
 [[analyzers]]
 name = "java"
-
+enabled = true
 
 [analyzers.meta]
-source = "src/main/java"
+source = "C:\Users\mmoha\Downloads\Telegram Desktop\hotel\hotel"
