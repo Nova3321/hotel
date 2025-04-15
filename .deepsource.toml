@@ -3,4 +3,3 @@ version = 1
 [[analyzers]]
 name = "java"
 enabled = true
-source-paths = ["C:\Users\mmoha\Downloads\Telegram Desktop\hotel"]
